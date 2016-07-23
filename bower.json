@@ -1,0 +1,24 @@
+{
+  "name": "imovie",
+  "description": "imovie",
+  "main": "",
+  "keywords": [
+    "imovie"
+  ],
+  "authors": [
+    "xiaoyuervae"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
